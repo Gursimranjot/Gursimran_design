@@ -1,0 +1,71 @@
+html,body{
+  height: 100%;
+}
+
+
+body .ccm-page {
+  color: #000000;
+  font-family: "Proxima Nova";
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  font-style: normal;
+  font-weight: 400;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
+  font-smooth: always;
+  font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  height: 100%;
+}
+
+$less-gutter: 5px;
+
+.ccm-page .row.less-gutter {
+  margin-left: -$less-gutter;
+  margin-right: -$less-gutter;
+}
+
+.ccm-page .row.less-gutter > [class*='col-'] {
+  padding-left: $less-gutter;
+  padding-right: $less-gutter;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//    banner
+
+
+@media (min-width: 992px){
+  .ccm-page .banner{
+    &.btm-30 .container {
+      height: 70%;
+    }
+    &.mini-banner .container{
+      height: 70%;
+      min-height: 500px;
+      justify-content: flex-end;
+      padding-bottom: 60px;
+    }
+  }
+}

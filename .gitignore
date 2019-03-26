@@ -1,0 +1,20 @@
+#editor
+*.kdev4
+*.idea
+
+rough
+composer.lock
+logs/*
+cache/*
+vendor
+
+#rough content folder
+rough
+
+node_modules
+static-templates/node_modules
+application
+packages
+package-lock.json
+package.json
+concrete
