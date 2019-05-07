@@ -14,7 +14,7 @@ This README would normally document whatever steps are necessary to get your app
     --- This is the frontend boilerplate to setup the project
 * Configuration
     --- Steps to Start the project
-    Step 1  -  git clone https://Gursimran_smartshore@bitbucket.org/Gursimran_smartshore/frontend_boilerplate.git
+    Step 1  -  git clone https://github.com/Gursimranjot/Gursimran_design.git
     Step 2  -  Go to static templates folder
     Step 3 - npm install
     Step 4 - npm start
