@@ -18,7 +18,7 @@
     "browser-sync": "^2.26.3",
     "fontforge": "0.0.4",
     "glob": "^7.1.2",
-    "gsap": "^2.0.2",
+    "gsap": "^3.6.0",
     "gulp": "^3.0.0",
     "gulp-clean-css": "^3.9.3",
     "gulp-cli": "^2.0.1",
