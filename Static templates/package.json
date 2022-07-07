@@ -38,7 +38,7 @@
     "jquery": "^3.2.1",
     "jquery-touchswipe": "^1.6.19",
     "lesshat": "^4.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.23",
     "purecss-sass": "^1.0.0",
     "swiper": "^4.4.6"
